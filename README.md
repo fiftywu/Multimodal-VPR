@@ -4,7 +4,7 @@
 
 
 
-## Citing Histogram Layer
+## Citing Multi-modal Visual Place Recognition...
 
 If you use our code, please cite the following reference using the following entry.
 
