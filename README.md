@@ -6,12 +6,6 @@
 
 ## Citing Multi-modal Visual Place Recognition...
 
-If you use our code, please cite the following reference using the following entry.
-
-**Plain Text:**
-
-L. Wu, T. Wang and C. Sun, "Multi-Modal Visual Place Recognition in Dynamics-Invariant Perception Space," in IEEE Signal Processing Letters, vol. 28, pp. 2197-2201, 2021, doi: 10.1109/LSP.2021.3123907.
-
 **BibTex:**
 ```
 @ARTICLE{9594697,
