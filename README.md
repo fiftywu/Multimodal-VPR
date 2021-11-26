@@ -10,14 +10,17 @@ If you use our code, please cite the following reference using the following ent
 
 **Plain Text:**
 
-L. Wu, T. Wang, C. Sun. (2021). Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space. arXiv preprint arXiv:2105.07800.
+L. Wu, T. Wang and C. Sun, "Multi-Modal Visual Place Recognition in Dynamics-Invariant Perception Space," in IEEE Signal Processing Letters, vol. 28, pp. 2197-2201, 2021, doi: 10.1109/LSP.2021.3123907.
 
 **BibTex:**
 ```
-@article{wu2021multimodal,
-  title={Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space},
-  author={Lin Wu and Teng Wang and Changyin Sun},
-  journal={arXiv preprint arXiv:2105.07800.},
-  year={2021}
-}
+@ARTICLE{9594697,
+  author={Wu, Lin and Wang, Teng and Sun, Changyin},
+  journal={IEEE Signal Processing Letters}, 
+  title={Multi-Modal Visual Place Recognition in Dynamics-Invariant Perception Space}, 
+  year={2021},
+  volume={28},
+  number={},
+  pages={2197-2201},
+  doi={10.1109/LSP.2021.3123907}}
 ```
