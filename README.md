@@ -10,7 +10,7 @@
 
 ## Framework
 
-![](examples\image-20211125215508275.png)
+![](examples/image-20211125215508275.png)
 
 ## Installation
 
