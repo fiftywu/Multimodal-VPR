@@ -1,6 +1,7 @@
 # Multi-modal Visual Place Recognition
 
-> Dataset and code for our IEEE-Signal-Processing-Letter-2020 paper: 《[Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space](https://doi.org/10.1109/lsp.2021.3123907)》
+> Dataset and code for our IEEE-Signal-Processing-Letter-2020 paper:
+>《[Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space](https://doi.org/10.1109/lsp.2021.3123907)》
 
 ## Highlight
 
