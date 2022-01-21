@@ -1,7 +1,7 @@
 # Multi-modal Visual Place Recognition
 
 > Dataset and code for our IEEE-Signal-Processing-Letter-2020 paper:
->《[Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space](https://doi.org/10.1109/lsp.2021.3123907)》
+> 《[Multi-modal Visual Place Recognition in Dynamics-Invariant Perception Space](https://doi.org/10.1109/lsp.2021.3123907)》
 
 ## Highlight
 
@@ -48,7 +48,7 @@ python test_TransNet --gpu_ids 0 --name SegTransNet --phase testRand --epoch x -
 
 - We also provide evaluation scripts for image quality (L1, L2, PSNR, SSIM) and  semantic segmentation performance (PA, MPA, MIoU, FWIoU). Please see *"src/scripts"* for more details. 
 
-## Citing
+## Citation
 
 **BibTex:**
 
